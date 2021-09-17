@@ -9,6 +9,7 @@ Code to count number of occurance of words and get the most 'n' occured words in
 ## Steps to run the code
 
 **Prerequisites**
+* git
 * node (version 12.14.0 or above)
 
 **Steps**
